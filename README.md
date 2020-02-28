@@ -1,5 +1,5 @@
 # D7041E mini project
 
 ## Datasets
-- https://zenodo.org/record/3238357 1000 graffiti pictures
-- (https://www.kaggle.com/jesusjara/graffiti-signatures-of-madrid/data 197 graffiti pictures)
+- https://drive.google.com/file/d/11KBgD_W2yOxhJnUMiyBkBzXDPXhVmvCt/view (Fire)
+- 
