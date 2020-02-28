@@ -10,6 +10,9 @@ jupyter = "*"
 numpy = "*"
 tensorflow = "*"
 jsonschema = "*"
+opencv-python = "*"
+matplotlib = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.6.9"
